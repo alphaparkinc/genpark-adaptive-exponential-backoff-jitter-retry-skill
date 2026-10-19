@@ -1,0 +1,21 @@
+{
+  "name": "genpark-adaptive-exponential-backoff-jitter-retry-skill",
+  "version": "1.0.1",
+  "description": "Full jitter exponential backoff retry scheduling and half-open circuit breaker state machine for LLM APIs",
+  "author": "GenPark AI",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "topics": [
+    "mcp",
+    "exponential-backoff",
+    "full-jitter",
+    "circuit-breaker",
+    "retry-manager",
+    "fault-tolerance",
+    "python-standard-library",
+    "agent-skills",
+    "api-reliability",
+    "resilience",
+    "microservices"
+  ]
+}
